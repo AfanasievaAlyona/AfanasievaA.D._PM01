@@ -1,0 +1,21 @@
+C:\Users\Admin\source\repos\ekz\bin\Debug\ekz.exe.config
+C:\Users\Admin\source\repos\ekz\bin\Debug\ekz.exe
+C:\Users\Admin\source\repos\ekz\bin\Debug\ekz.pdb
+C:\Users\Admin\source\repos\ekz\obj\Debug\ekz.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ekz\obj\Debug\ekz.Form1.resources
+C:\Users\Admin\source\repos\ekz\obj\Debug\ekz.Properties.Resources.resources
+C:\Users\Admin\source\repos\ekz\obj\Debug\ekz.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ekz\obj\Debug\ekz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ekz\obj\Debug\ekz.exe
+C:\Users\Admin\source\repos\ekz\obj\Debug\ekz.pdb
+C:\Users\Admin\source\repos\ekz\obj\Debug\ekz.Form2.resources
+E:\Экзамен ПМ01\Прога\ekz\ekz\bin\Debug\ekz.exe.config
+E:\Экзамен ПМ01\Прога\ekz\ekz\bin\Debug\ekz.exe
+E:\Экзамен ПМ01\Прога\ekz\ekz\bin\Debug\ekz.pdb
+E:\Экзамен ПМ01\Прога\ekz\ekz\obj\Debug\ekz.Form1.resources
+E:\Экзамен ПМ01\Прога\ekz\ekz\obj\Debug\ekz.Properties.Resources.resources
+E:\Экзамен ПМ01\Прога\ekz\ekz\obj\Debug\ekz.csproj.GenerateResource.cache
+E:\Экзамен ПМ01\Прога\ekz\ekz\obj\Debug\ekz.csproj.CoreCompileInputs.cache
+E:\Экзамен ПМ01\Прога\ekz\ekz\obj\Debug\ekz.exe
+E:\Экзамен ПМ01\Прога\ekz\ekz\obj\Debug\ekz.pdb
+E:\Экзамен ПМ01\Прога\ekz\ekz\obj\Debug\ekz.csprojResolveAssemblyReference.cache

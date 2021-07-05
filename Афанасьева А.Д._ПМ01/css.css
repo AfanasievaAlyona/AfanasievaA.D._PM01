@@ -1,0 +1,26 @@
+h1{
+text-align:justify;
+font-family: "Monotype Corsiva", bold; 
+font-size: 24px;
+}
+.underline {
+border-bottom: 1px solid;
+}
+p{
+border: 1px solid black;
+margin: 0px 0px 0px 250px;
+background-color: #FFFF00;
+}
+h2{
+text-align:justify;
+font-family: "Arial", bold, italic;; 
+font-size: 24px;
+}
+.underline {
+border-bottom: 1px solid;
+}
+h4{
+border: 1px solid black;
+margin: 0px 300px 0px 0px;
+background-color: Yellow;
+}
